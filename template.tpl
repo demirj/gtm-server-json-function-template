@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "JSON - Parse or Stringify",
+  "categories": ["TAG_MANAGEMENT"],
   "description": "Parse a JSON string to construct the object or convert the input into a JSON string.",
   "containerContexts": [
     "SERVER"
